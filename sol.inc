@@ -6,7 +6,7 @@ box {
     <325, -1, 260>   // Far upper right corner
     texture {
       T_Stone25     // Pre-defined from stones.inc
-      scale 40       // Scale by the same amount in all
+      scale 400       // Scale by the same amount in all
                     // directions
     }
 //    rotate y*20     // Equivalent to "rotate <0,20,0>"

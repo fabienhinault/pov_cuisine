@@ -14,3 +14,12 @@ difference {
     pigment { color White }
   }
 }
+
+//bloc volet
+box {
+  <0, 220, 55>,
+  <19, 250, 55 + 152>
+  texture {
+    pigment { color White }
+  }
+}
